@@ -1,0 +1,11 @@
+C:\Users\st305a05\OneDrive\Документы\vagizanov\Student_Work\bin\Debug\Student_Work.exe.config
+C:\Users\st305a05\OneDrive\Документы\vagizanov\Student_Work\bin\Debug\Student_Work.exe
+C:\Users\st305a05\OneDrive\Документы\vagizanov\Student_Work\bin\Debug\Student_Work.pdb
+C:\Users\st305a05\OneDrive\Документы\vagizanov\Student_Work\obj\Debug\Student_Work.csproj.AssemblyReference.cache
+C:\Users\st305a05\OneDrive\Документы\vagizanov\Student_Work\obj\Debug\Student_Work.csproj.SuggestedBindingRedirects.cache
+C:\Users\st305a05\OneDrive\Документы\vagizanov\Student_Work\obj\Debug\Student_Work.Form1.resources
+C:\Users\st305a05\OneDrive\Документы\vagizanov\Student_Work\obj\Debug\Student_Work.Properties.Resources.resources
+C:\Users\st305a05\OneDrive\Документы\vagizanov\Student_Work\obj\Debug\Student_Work.csproj.GenerateResource.cache
+C:\Users\st305a05\OneDrive\Документы\vagizanov\Student_Work\obj\Debug\Student_Work.csproj.CoreCompileInputs.cache
+C:\Users\st305a05\OneDrive\Документы\vagizanov\Student_Work\obj\Debug\Student_Work.exe
+C:\Users\st305a05\OneDrive\Документы\vagizanov\Student_Work\obj\Debug\Student_Work.pdb
